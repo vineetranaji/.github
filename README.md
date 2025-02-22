@@ -1,2 +1,2 @@
 # .github
-To maintain standards in my github
+## To maintain standards in my github
