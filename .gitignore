@@ -1,0 +1,20 @@
+# Ignore system-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files and logs
+*.log
+*.tmp
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore backups
+*.bak
+*.old
+
+# Ignore GitHub Actions workflow logs (if any workflows are added later)
+.github/workflows/*.log
