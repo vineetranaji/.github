@@ -1,0 +1,18 @@
+# GitHub Standards CODEOWNERS
+# Define ownership for different sections of the repo
+
+# Default owner for all files (Replace with your GitHub username)
+*              @vineetranaji
+
+# Specific ownership for GitHub templates
+.github/ISSUE_TEMPLATE/*    @vineetranaji
+.github/PULL_REQUEST_TEMPLATE.md    @vineetranaji
+
+# Ownership for security policies
+SECURITY.md    @vineetranaji
+
+# Ownership for contribution guidelines
+CONTRIBUTING.md    @vineetranaji
+
+# Ownership for workflows (if any GitHub Actions are added later)
+.github/workflows/*    @vineetranaji
